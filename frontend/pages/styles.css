@@ -1,0 +1,10 @@
+#box{
+    border:2px solid red;
+    border-radius:10px;
+    text-align:center;
+    padding: 10px;
+}
+#p1{
+    text-align:right;
+    padding-right: 10px;
+}
